@@ -1,6 +1,6 @@
-# Calendly Integration — Mock Scheduling API (FastAPI)
+# Appointment Scheduling Service (Calendly-style) - FastAPI
 
-This project implements **Calendly Integration**
+A FastAPI backend that generates appointment availability and books slots, with double-booking prevention built into the scheduling logic.
 
 It provides backend endpoints that simulate appointment scheduling for a medical clinic:
 
@@ -10,7 +10,6 @@ It provides backend endpoints that simulate appointment scheduling for a medical
 - Handle appointment-type durations
 - Return clean JSON responses
 
-This submission only implements the **Calendly module**, as allowed in the brief.
 
 ---
 
